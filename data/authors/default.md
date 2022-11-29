@@ -1,9 +1,9 @@
 ---
-name: Tails Azimuth
+name: Bunleap Sorn
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
+occupation: Student
+company: Liger Leadership Academy
+email: bunleap.s@ligercambodia.org
 twitter: https://twitter.com/Twitter
 linkedin: https://www.linkedin.com
 github: https://github.com
