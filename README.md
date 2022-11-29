@@ -5,4 +5,4 @@
 - [ ] Header + Logo (SVG)
 - [ ] Customization
 - [ ] Facebook Embed
-- [ ] Hosting & Publish
+- [x] Hosting & Publish
