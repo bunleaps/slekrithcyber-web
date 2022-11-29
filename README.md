@@ -1,8 +1,8 @@
 ## Task
 
-- [x] Theming
+- [x] Theming (Dark)
 - [x] Footer
-- [ ] Header + Logo (SVG)
+- [x] Header + Logo (PNG)
 - [ ] Customization
 - [ ] Mailing System
 - [ ] Facebook Embed
